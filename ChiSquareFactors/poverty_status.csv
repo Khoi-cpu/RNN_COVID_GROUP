@@ -1,0 +1,145 @@
+Geographic Level,Week_ending,Poverty Status,No Vaccination,Yes Vaccination
+National,01/06/2024 12:00:00 AM,"Above Poverty, Income < $75k",88960.66,62849.34
+National,01/06/2024 12:00:00 AM,"Above Poverty, Income >= $75k",104487.87,105327.13
+National,01/06/2024 12:00:00 AM,Below Poverty,30634.599000000002,14218.401
+National,01/06/2024 12:00:00 AM,Poverty Status Unknown,67509.484,44632.515999999996
+National,01/13/2024 12:00:00 AM,"Above Poverty, Income < $75k",88201.61,63608.39
+National,01/13/2024 12:00:00 AM,"Above Poverty, Income >= $75k",103858.425,105956.575
+National,01/13/2024 12:00:00 AM,Below Poverty,30500.04,14352.960000000001
+National,01/13/2024 12:00:00 AM,Poverty Status Unknown,67397.342,44744.657999999996
+National,01/20/2024 12:00:00 AM,"Above Poverty, Income < $75k",87442.56,64367.439999999995
+National,01/20/2024 12:00:00 AM,"Above Poverty, Income >= $75k",103019.165,106795.835
+National,01/20/2024 12:00:00 AM,Below Poverty,30186.069,14666.931
+National,01/20/2024 12:00:00 AM,Poverty Status Unknown,66388.06400000001,45753.935999999994
+National,01/27/2024 12:00:00 AM,"Above Poverty, Income < $75k",86683.51000000001,65126.49
+National,01/27/2024 12:00:00 AM,"Above Poverty, Income >= $75k",102389.72,107425.28
+National,01/27/2024 12:00:00 AM,Below Poverty,30096.363,14756.636999999999
+National,01/27/2024 12:00:00 AM,Poverty Status Unknown,66051.638,46090.362
+National,02/03/2024 12:00:00 AM,"Above Poverty, Income < $75k",86379.89,65430.11
+National,02/03/2024 12:00:00 AM,"Above Poverty, Income >= $75k",100711.2,109103.8
+National,02/03/2024 12:00:00 AM,Below Poverty,29513.273999999998,15339.726
+National,02/03/2024 12:00:00 AM,Poverty Status Unknown,65378.78599999999,46763.21400000001
+National,02/10/2024 12:00:00 AM,"Above Poverty, Income < $75k",86228.07999999999,65581.92000000001
+National,02/10/2024 12:00:00 AM,"Above Poverty, Income >= $75k",100291.56999999999,109523.43000000001
+National,02/10/2024 12:00:00 AM,Below Poverty,29468.421000000002,15384.578999999998
+National,02/10/2024 12:00:00 AM,Poverty Status Unknown,65378.78599999999,46763.21400000001
+National,02/17/2024 12:00:00 AM,"Above Poverty, Income < $75k",86076.27,65733.73
+National,02/17/2024 12:00:00 AM,"Above Poverty, Income >= $75k",100081.75499999999,109733.24500000001
+National,02/17/2024 12:00:00 AM,Below Poverty,29468.421000000002,15384.578999999998
+National,02/17/2024 12:00:00 AM,Poverty Status Unknown,65042.36,47099.64
+National,02/24/2024 12:00:00 AM,"Above Poverty, Income < $75k",85620.84,66189.16
+National,02/24/2024 12:00:00 AM,"Above Poverty, Income >= $75k",99871.94,109943.06
+National,02/24/2024 12:00:00 AM,Below Poverty,29289.009,15563.991000000002
+National,02/24/2024 12:00:00 AM,Poverty Status Unknown,64818.075999999994,47323.924000000006
+National,03/02/2024 12:00:00 AM,"Above Poverty, Income < $75k",84558.17000000001,67251.82999999999
+National,03/02/2024 12:00:00 AM,"Above Poverty, Income >= $75k",98403.235,111411.765
+National,03/02/2024 12:00:00 AM,Below Poverty,28571.361,16281.639
+National,03/02/2024 12:00:00 AM,Poverty Status Unknown,63808.798,48333.202
+National,03/09/2024 12:00:00 AM,"Above Poverty, Income < $75k",84558.17000000001,67251.82999999999
+National,03/09/2024 12:00:00 AM,"Above Poverty, Income >= $75k",98403.235,111411.765
+National,03/09/2024 12:00:00 AM,Below Poverty,28526.508,16326.492
+National,03/09/2024 12:00:00 AM,Poverty Status Unknown,63696.655999999995,48445.344000000005
+National,03/16/2024 12:00:00 AM,"Above Poverty, Income < $75k",84558.17000000001,67251.82999999999
+National,03/16/2024 12:00:00 AM,"Above Poverty, Income >= $75k",98193.42,111621.58
+National,03/16/2024 12:00:00 AM,Below Poverty,28526.508,16326.492
+National,03/16/2024 12:00:00 AM,Poverty Status Unknown,63584.514,48557.486
+National,03/23/2024 12:00:00 AM,"Above Poverty, Income < $75k",84406.36,67403.64
+National,03/23/2024 12:00:00 AM,"Above Poverty, Income >= $75k",98193.42,111621.58
+National,03/23/2024 12:00:00 AM,Below Poverty,28526.508,16326.492
+National,03/23/2024 12:00:00 AM,Poverty Status Unknown,63584.514,48557.486
+National,03/31/2024 12:00:00 AM,"Above Poverty, Income < $75k",84406.36,67403.64
+National,03/31/2024 12:00:00 AM,"Above Poverty, Income >= $75k",98193.42,111621.58
+National,03/31/2024 12:00:00 AM,Below Poverty,28526.508,16326.492
+National,03/31/2024 12:00:00 AM,Poverty Status Unknown,63472.372,48669.628
+National,08/24/2024 12:00:00 AM,"Above Poverty, Income < $75k",30177.169,1029.8310000000001
+National,08/24/2024 12:00:00 AM,"Above Poverty, Income >= $75k",42588.358,780.642
+National,08/24/2024 12:00:00 AM,Below Poverty,9689.778,467.222
+National,08/24/2024 12:00:00 AM,Poverty Status Unknown,20055.849,901.151
+National,08/31/2024 12:00:00 AM,"Above Poverty, Income < $75k",30083.548,1123.4520000000002
+National,08/31/2024 12:00:00 AM,"Above Poverty, Income >= $75k",42414.882,954.118
+National,08/31/2024 12:00:00 AM,Below Poverty,9679.621,477.379
+National,08/31/2024 12:00:00 AM,Poverty Status Unknown,19951.064,1005.936
+National,09/07/2024 12:00:00 AM,"Above Poverty, Income < $75k",29709.064,1497.936
+National,09/07/2024 12:00:00 AM,"Above Poverty, Income >= $75k",41287.288,2081.712
+National,09/07/2024 12:00:00 AM,Below Poverty,9425.696,731.3040000000001
+National,09/07/2024 12:00:00 AM,Poverty Status Unknown,19930.107,1026.893
+National,09/14/2024 12:00:00 AM,"Above Poverty, Income < $75k",28741.647,2465.353
+National,09/14/2024 12:00:00 AM,"Above Poverty, Income >= $75k",40463.277,2905.723
+National,09/14/2024 12:00:00 AM,Below Poverty,9374.911,782.0889999999999
+National,09/14/2024 12:00:00 AM,Poverty Status Unknown,19531.924,1425.076
+National,09/21/2024 12:00:00 AM,"Above Poverty, Income < $75k",28117.507,3089.493
+National,09/21/2024 12:00:00 AM,"Above Poverty, Income >= $75k",38641.779,4727.221
+National,09/21/2024 12:00:00 AM,Below Poverty,9151.457,1005.543
+National,09/21/2024 12:00:00 AM,Poverty Status Unknown,19112.784,1844.2160000000001
+National,09/28/2024 12:00:00 AM,"Above Poverty, Income < $75k",27462.16,3744.8399999999997
+National,09/28/2024 12:00:00 AM,"Above Poverty, Income >= $75k",37514.185,5854.8150000000005
+National,09/28/2024 12:00:00 AM,Below Poverty,9070.201000000001,1086.799
+National,09/28/2024 12:00:00 AM,Poverty Status Unknown,18756.515,2200.485
+National,09/30/2023 12:00:00 AM,"Above Poverty, Income < $75k",131012.03,20797.969999999998
+National,09/30/2023 12:00:00 AM,"Above Poverty, Income >= $75k",180021.27000000002,29793.729999999996
+National,09/30/2023 12:00:00 AM,Below Poverty,39291.228,5561.772
+National,09/30/2023 12:00:00 AM,Poverty Status Unknown,96217.836,15924.163999999999
+National,10/05/2024 12:00:00 AM,"Above Poverty, Income < $75k",25371.291,5835.709
+National,10/05/2024 12:00:00 AM,"Above Poverty, Income >= $75k",34348.248,9020.752
+National,10/05/2024 12:00:00 AM,Below Poverty,8562.351,1594.6490000000001
+National,10/05/2024 12:00:00 AM,Poverty Status Unknown,17079.955,3877.045
+National,10/07/2023 12:00:00 AM,"Above Poverty, Income < $75k",127368.59,24441.41
+National,10/07/2023 12:00:00 AM,"Above Poverty, Income >= $75k",171209.04,38605.96
+National,10/07/2023 12:00:00 AM,Below Poverty,38887.551,5965.4490000000005
+National,10/07/2023 12:00:00 AM,Poverty Status Unknown,94423.564,17718.436
+National,10/12/2024 12:00:00 AM,"Above Poverty, Income < $75k",24466.288,6740.712
+National,10/12/2024 12:00:00 AM,"Above Poverty, Income >= $75k",33047.178,10321.822
+National,10/12/2024 12:00:00 AM,Below Poverty,8369.368,1787.6320000000003
+National,10/12/2024 12:00:00 AM,Poverty Status Unknown,16388.374,4568.626
+National,10/14/2023 12:00:00 AM,"Above Poverty, Income < $75k",119474.47,32335.53
+National,10/14/2023 12:00:00 AM,"Above Poverty, Income >= $75k",161347.735,48467.265
+National,10/14/2023 12:00:00 AM,Below Poverty,37990.491,6862.509
+National,10/14/2023 12:00:00 AM,Poverty Status Unknown,90274.31,21867.690000000002
+National,10/19/2024 12:00:00 AM,"Above Poverty, Income < $75k",23779.734,7427.2660000000005
+National,10/19/2024 12:00:00 AM,"Above Poverty, Income >= $75k",31616.000999999997,11752.999000000002
+National,10/19/2024 12:00:00 AM,Below Poverty,8074.8150000000005,2082.185
+National,10/19/2024 12:00:00 AM,Poverty Status Unknown,15864.449,5092.5509999999995
+National,10/21/2023 12:00:00 AM,"Above Poverty, Income < $75k",115071.98000000001,36738.02
+National,10/21/2023 12:00:00 AM,"Above Poverty, Income >= $75k",150437.35499999998,59377.645000000004
+National,10/21/2023 12:00:00 AM,Below Poverty,37003.725,7849.275
+National,10/21/2023 12:00:00 AM,Poverty Status Unknown,86910.05,25231.95
+National,10/28/2023 12:00:00 AM,"Above Poverty, Income < $75k",111580.35,40229.65
+National,10/28/2023 12:00:00 AM,"Above Poverty, Income >= $75k",144142.905,65672.095
+National,10/28/2023 12:00:00 AM,Below Poverty,36420.636,8432.364
+National,10/28/2023 12:00:00 AM,Poverty Status Unknown,84106.5,28035.5
+National,11/04/2023 12:00:00 AM,"Above Poverty, Income < $75k",106267.0,45543.0
+National,11/04/2023 12:00:00 AM,"Above Poverty, Income >= $75k",130924.56,78890.44
+National,11/04/2023 12:00:00 AM,Below Poverty,35164.752,9688.248000000001
+National,11/04/2023 12:00:00 AM,Poverty Status Unknown,78387.258,33754.742
+National,11/11/2023 12:00:00 AM,"Above Poverty, Income < $75k",104141.66,47668.340000000004
+National,11/11/2023 12:00:00 AM,"Above Poverty, Income >= $75k",126518.44499999999,83296.55500000001
+National,11/11/2023 12:00:00 AM,Below Poverty,34402.251000000004,10450.749
+National,11/11/2023 12:00:00 AM,Poverty Status Unknown,76256.56,35885.44
+National,11/18/2023 12:00:00 AM,"Above Poverty, Income < $75k",101864.51000000001,49945.48999999999
+National,11/18/2023 12:00:00 AM,"Above Poverty, Income >= $75k",121482.885,88332.115
+National,11/18/2023 12:00:00 AM,Below Poverty,33998.574,10854.426
+National,11/18/2023 12:00:00 AM,Poverty Status Unknown,74462.288,37679.712
+National,11/25/2023 12:00:00 AM,"Above Poverty, Income < $75k",101257.27,50552.729999999996
+National,11/25/2023 12:00:00 AM,"Above Poverty, Income >= $75k",119174.91999999998,90640.08000000002
+National,11/25/2023 12:00:00 AM,Below Poverty,33864.015,10988.985
+National,11/25/2023 12:00:00 AM,Poverty Status Unknown,73116.584,39025.416
+National,12/02/2023 12:00:00 AM,"Above Poverty, Income < $75k",94881.25,56928.75
+National,12/02/2023 12:00:00 AM,"Above Poverty, Income >= $75k",111831.39499999999,97983.60500000001
+National,12/02/2023 12:00:00 AM,Below Poverty,32249.307,12603.693000000001
+National,12/02/2023 12:00:00 AM,Poverty Status Unknown,71210.17,40931.83
+National,12/09/2023 12:00:00 AM,"Above Poverty, Income < $75k",93211.34,58598.66
+National,12/09/2023 12:00:00 AM,"Above Poverty, Income >= $75k",109313.615,100501.385
+National,12/09/2023 12:00:00 AM,Below Poverty,32249.307,12603.693000000001
+National,12/09/2023 12:00:00 AM,Poverty Status Unknown,69976.60800000001,42165.392
+National,12/16/2023 12:00:00 AM,"Above Poverty, Income < $75k",92452.29000000001,59357.71
+National,12/16/2023 12:00:00 AM,"Above Poverty, Income >= $75k",108684.17,101130.83
+National,12/16/2023 12:00:00 AM,Below Poverty,32204.454,12648.545999999998
+National,12/16/2023 12:00:00 AM,Poverty Status Unknown,69303.756,42838.244
+National,12/23/2023 12:00:00 AM,"Above Poverty, Income < $75k",90934.19,60875.810000000005
+National,12/23/2023 12:00:00 AM,"Above Poverty, Income >= $75k",107635.09499999999,102179.90500000001
+National,12/23/2023 12:00:00 AM,Below Poverty,31755.924,13097.076
+National,12/23/2023 12:00:00 AM,Poverty Status Unknown,68743.046,43398.954
+National,12/30/2023 12:00:00 AM,"Above Poverty, Income < $75k",90175.14,61634.86
+National,12/30/2023 12:00:00 AM,"Above Poverty, Income >= $75k",105956.575,103858.425
+National,12/30/2023 12:00:00 AM,Below Poverty,31217.688000000002,13635.312
+National,12/30/2023 12:00:00 AM,Poverty Status Unknown,68518.76199999999,43623.238000000005
